@@ -1,10 +1,13 @@
-import React from 'react';
+import React from 'react'; 
+import Header from "./components/header/Header"
 
-function App() {
+function App() { 
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <Header>
+
+      </Header>
+    </>
   );
 }
 
