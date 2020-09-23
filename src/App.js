@@ -11,6 +11,10 @@ function App() {
       </Header>
       <People>
         <Person name="Eli Webb" interests="Webdev">
+        </Person>
+        <Person name="Eli Webb" interests="Webdev">
+        </Person> 
+        <Person name="Eli Webb" interests="Webdev">
         </Person> 
       </People>
     </>

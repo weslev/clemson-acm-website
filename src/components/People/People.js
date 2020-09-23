@@ -2,9 +2,11 @@ import React from 'react';
 
 const People = props => {
     return (
-        <>
-            {props.children}
-        </>
+        <div className="container mx-auto flex flex-row">
+            <div className="justify-self-center justify-items-center">
+                {props.children}
+            </div>
+        </div>
     );
 }
 
